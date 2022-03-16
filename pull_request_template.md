@@ -1,4 +1,4 @@
-## Objetivo del PR :dart:
+## Objetivo :dart:
 
 **Jira:** `Agregar link al ticket de Jira`
 
